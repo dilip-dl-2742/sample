@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	autoclrf = true
+[remote "origin"]
+	url = https://github.com/dilip-dl-2742/sample.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
